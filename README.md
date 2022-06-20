@@ -1,1 +1,2 @@
-# mini-portfolio
+#guide to bootstrap
+
