@@ -18,7 +18,7 @@ const Main = () => {
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
             I’m a Junior Software Developer based in Johannesburg specializing in both front-end development and Back-end development. I have recently completed a National Diploma in IT(Software
             Development) with an uptitude of Software Development, Mobile Application Development, Web Development, Android Development, Software Testing, and Business Analysis and Modelling.
-            I enjoy leaning about new Technologies and have a high passion for developing new applications and solving application problems.
+            I enjoy leaning about new Technologies and have a high passion for developing new applications and solving application related problems.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
