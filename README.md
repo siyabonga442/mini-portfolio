@@ -6,3 +6,5 @@ Guide to bootstrap the app
 4. use npm run dev for rinning the application
 
 
+Portfolio Link : https://mini-portfolio-mocha.vercel.app/ this is a link to the deployed vision of the portfolio
+
